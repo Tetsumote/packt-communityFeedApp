@@ -1,0 +1,3 @@
+https://nextjs.org/docs/basic-features/built-in-css-support
+
+https://github.com/vercel/next.js/tree/canary/examples/with-styled-components
